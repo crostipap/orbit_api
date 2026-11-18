@@ -1,10 +1,10 @@
-package com.example.organiza;
+package com.example.orbit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrganizaApplicationTests {
+class OrbitApplicationTests {
 
 	@Test
 	void contextLoads() {
