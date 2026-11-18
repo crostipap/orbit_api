@@ -1,10 +1,10 @@
-package com.example.organiza.dto;
+package com.example.orbit.dto;
 
 import lombok.Data;
 
-@Data 
+@Data
 public class CreateResponseUser {
     String name;
-    String userName; 
+    String userName;
     String email;
 }

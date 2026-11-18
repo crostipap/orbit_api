@@ -21,4 +21,3 @@ jwt:
     converter:
       resource-id: organiza
       principle-attribute: preferred_username
-
